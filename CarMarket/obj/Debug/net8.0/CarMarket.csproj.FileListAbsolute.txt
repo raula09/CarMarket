@@ -1,0 +1,14 @@
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\CarMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\CarMarket.AssemblyInfoInputs.cache
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\CarMarket.AssemblyInfo.cs
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\CarMarket.csproj.CoreCompileInputs.cache
+C:\Users\raul0\source\repos\CarMarket\CarMarket\bin\Debug\net8.0\CarMarket.exe
+C:\Users\raul0\source\repos\CarMarket\CarMarket\bin\Debug\net8.0\CarMarket.deps.json
+C:\Users\raul0\source\repos\CarMarket\CarMarket\bin\Debug\net8.0\CarMarket.runtimeconfig.json
+C:\Users\raul0\source\repos\CarMarket\CarMarket\bin\Debug\net8.0\CarMarket.dll
+C:\Users\raul0\source\repos\CarMarket\CarMarket\bin\Debug\net8.0\CarMarket.pdb
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\CarMarket.dll
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\refint\CarMarket.dll
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\CarMarket.pdb
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\CarMarket.genruntimeconfig.cache
+C:\Users\raul0\source\repos\CarMarket\CarMarket\obj\Debug\net8.0\ref\CarMarket.dll
